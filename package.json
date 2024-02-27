@@ -1,0 +1,16 @@
+{
+  "name": "sample-character-controller",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel serve index.html"
+  },
+  "author": "Erik Onarheim",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "excalibur": "0.29.1"
+  }
+}
